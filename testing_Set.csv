@@ -1,0 +1,345 @@
+userID,smoker,drink_level,dress_preference,ambience,transport,marital_status,hijos,birth_year,interest,personality,religion,activity,color,weight,budget,height,food_type
+U1794,TRUE,social drinker,no preference,family,car owner,single,independent,1991,technology,hunter-ostentatious,Catholic,student,blue,75,medium,1.71,non-veg
+U1795,FALSE,social drinker,formal,family,public,single,independent,1991,variety,hard-worker,Christian,student,green,40,medium,1.74,non-veg
+U1796,FALSE,casual drinker,informal,friends,car owner,single,independent,1930,technology,hard-worker,Catholic,professional,blue,65,medium,1.71,non-veg
+U1797,FALSE,abstemious,no preference,friends,car owner,single,independent,1989,variety,hard-worker,Catholic,student,blue,87,high,1.79,non-veg
+U1798,FALSE,abstemious,informal,solitary,public,single,independent,1983,technology,thrifty-protector,Catholic,student,blue,76,medium,1.81,non-veg
+U1799,FALSE,abstemious,formal,solitary,public,single,independent,1989,eco-friendly,thrifty-protector,Catholic,student,blue,57,low,1.72,veg
+U1800,FALSE,abstemious,no preference,family,car owner,single,independent,1993,variety,thrifty-protector,Catholic,student,red,85,medium,1.75,veg
+U1801,TRUE,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69,veg
+U1802,TRUE,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69,veg
+U1803,FALSE,casual drinker,formal,family,public,single,independent,1990,none,thrifty-protector,Catholic,student,blue,75,medium,1.73,veg
+U1804,FALSE,abstemious,no preference,family,on foot,single,independent,1991,variety,hard-worker,Catholic,student,blue,58,medium,1.68,veg
+U1805,TRUE,social drinker,elegant,friends,public,single,independent,1990,variety,hard-worker,Catholic,student,green,76,low,1.76,veg
+U1806,FALSE,social drinker,formal,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,40,medium,1.71,non-veg
+U1807,FALSE,abstemious,no preference,friends,public,single,independent,1982,technology,thrifty-protector,Catholic,professional,blue,58,medium,1.6,non-veg
+U1808,TRUE,casual drinker,informal,friends,public,single,independent,1987,technology,thrifty-protector,none,student,black,60,medium,1.68,non-veg
+U1809,FALSE,abstemious,formal,family,public,single,independent,1992,eco-friendly,thrifty-protector,Catholic,student,blue,68,medium,1.68,veg
+U1810,FALSE,abstemious,informal,friends,public,single,independent,1930,variety,hard-worker,none,student,green,47,low,1.57,non-veg
+U1811,FALSE,social drinker,no preference,family,public,married,independent,1987,variety,thrifty-protector,Catholic,working-class,black,90,medium,1.6,veg
+U1812,FALSE,abstemious,no preference,family,public,single,independent,1930,none,hard-worker,none,student,yellow,40,medium,1.2,non-veg
+U1813,FALSE,abstemious,informal,family,public,single,independent,1987,technology,hard-worker,Catholic,student,green,110,medium,1.75,non-veg
+U1814,FALSE,casual drinker,informal,friends,public,single,independent,1991,none,hard-worker,Catholic,student,blue,51,low,1.2,non-veg
+U1815,FALSE,casual drinker,formal,friends,public,single,independent,1990,technology,hard-worker,Catholic,student,white,57,low,1.67,non-veg
+U1816,FALSE,casual drinker,formal,friends,on foot,single,independent,1990,technology,hard-worker,Catholic,student,purple,65,low,1.63,non-veg
+U1817,FALSE,abstemious,no preference,solitary,public,single,independent,1992,variety,hard-worker,Catholic,student,black,65,low,1.76,non-veg
+U1818,FALSE,casual drinker,no preference,friends,public,single,independent,1986,variety,thrifty-protector,Catholic,student,red,66,low,1.72,non-veg
+U1819,FALSE,casual drinker,no preference,friends,public,single,independent,1989,variety,thrifty-protector,none,student,purple,69,low,1.69,non-veg
+U1820,FALSE,abstemious,no preference,family,public,single,independent,1989,none,hard-worker,none,student,yellow,40,medium,1.2,non-veg
+U1821,TRUE,social drinker,no preference,friends,car owner,married,kids,1990,eco-friendly,hard-worker,none,student,black,90,medium,1.8,non-veg
+U1822,FALSE,casual drinker,informal,solitary,public,single,independent,1991,none,hard-worker,none,student,blue,55,medium,1.6,non-veg
+U1823,FALSE,abstemious,no preference,family,car owner,single,independent,1991,none,hard-worker,none,student,orange,60,medium,1.57,non-veg
+U1824,FALSE,casual drinker,no preference,family,public,single,independent,1991,variety,hard-worker,Catholic,student,black,52,medium,1.65,veg
+U1825,FALSE,casual drinker,informal,family,on foot,single,kids,1988,variety,hunter-ostentatious,Catholic,student,purple,66,low,1.54,veg
+U1826,TRUE,social drinker,no preference,friends,car owner,single,independent,1990,retro,thrifty-protector,Catholic,student,black,50,low,1.6,veg
+U1827,FALSE,social drinker,formal,family,public,single,independent,1989,eco-friendly,hard-worker,Catholic,student,blue,72,low,1.78,veg
+U1828,FALSE,social drinker,formal,friends,public,single,independent,1991,variety,thrifty-protector,none,student,blue,54,medium,1.55,veg
+U1829,FALSE,abstemious,informal,family,on foot,single,independent,1989,variety,thrifty-protector,none,student,black,69,medium,1.77,veg
+U1830,FALSE,abstemious,informal,family,public,single,independent,1990,technology,hunter-ostentatious,Catholic,student,red,40,low,1.87,veg
+U1831,FALSE,social drinker,formal,family,public,single,independent,1989,none,hard-worker,Catholic,student,blue,60,low,1.69,non-veg
+U1832,FALSE,abstemious,informal,family,public,single,independent,1940,variety,hard-worker,none,professional,green,44,medium,1.53,non-veg
+U1833,FALSE,abstemious,no preference,family,public,single,independent,1992,none,thrifty-protector,Catholic,student,black,65,medium,1.69,non-veg
+U1834,TRUE,social drinker,no preference,friends,car owner,single,independent,1989,variety,hard-worker,none,student,blue,75,medium,1.8,veg
+U1835,FALSE,casual drinker,informal,solitary,public,single,independent,1989,variety,thrifty-protector,Catholic,student,purple,60,low,1.59,non-veg
+U1836,FALSE,social drinker,formal,solitary,public,single,independent,1989,technology,hard-worker,Catholic,student,green,68,low,1.72,veg
+U1837,FALSE,abstemious,formal,family,on foot,single,kids,1991,variety,thrifty-protector,Catholic,student,green,75,medium,1.78,non-veg
+U1838,FALSE,social drinker,no preference,friends,car owner,married,kids,1987,technology,hard-worker,none,student,green,40,medium,1.67,non-veg
+U1839,FALSE,abstemious,no preference,family,public,single,independent,1989,variety,hard-worker,Catholic,student,purple,68,medium,1.78,non-veg
+U1840,FALSE,casual drinker,formal,family,public,single,independent,1988,technology,hard-worker,Catholic,student,red,98,medium,1.84,non-veg
+U1841,FALSE,abstemious,no preference,friends,public,widow,independent,1982,retro,thrifty-protector,none,professional,blue,80,medium,1.75,non-veg
+U1842,FALSE,abstemious,no preference,friends,public,single,independent,1990,none,hard-worker,Catholic,student,blue,53,medium,1.69,non-veg
+U1843,TRUE,social drinker,informal,family,public,single,independent,1989,technology,thrifty-protector,Catholic,student,black,87,medium,1.67,non-veg
+U1844,FALSE,casual drinker,informal,friends,on foot,single,independent,1991,eco-friendly,thrifty-protector,Catholic,student,green,70,medium,1.67,non-veg
+U1845,FALSE,casual drinker,formal,family,public,single,independent,1991,retro,hunter-ostentatious,none,professional,orange,79,medium,1.79,non-veg
+U1846,TRUE,casual drinker,formal,friends,public,single,independent,1989,technology,thrifty-protector,Christian,student,blue,65,low,1.83,non-veg
+U1847,FALSE,casual drinker,no preference,family,public,single,independent,1989,variety,thrifty-protector,Catholic,student,purple,59,medium,1.6,non-veg
+U1848,FALSE,abstemious,no preference,friends,public,single,independent,1982,technology,hard-worker,Catholic,professional,blue,40,medium,1.68,non-veg
+U1849,FALSE,social drinker,no preference,family,car owner,single,dependent,1984,none,hard-worker,Catholic,student,purple,108,medium,1.62,veg
+U1850,FALSE,casual drinker,formal,family,car owner,single,independent,1990,variety,hard-worker,Catholic,student,purple,46,medium,1.54,veg
+U1851,FALSE,casual drinker,informal,friends,car owner,single,independent,1988,none,hard-worker,Catholic,student,blue,103,low,1.79,non-veg
+U1852,FALSE,abstemious,no preference,family,public,single,independent,1930,none,hard-worker,none,student,yellow,40,medium,1.2,veg
+U1853,FALSE,social drinker,no preference,family,public,single,independent,1990,none,thrifty-protector,Catholic,student,red,65,medium,1.79,non-veg
+U1854,FALSE,abstemious,formal,family,public,single,independent,1989,technology,hunter-ostentatious,Catholic,student,red,49,medium,1.55,veg
+U1855,TRUE,social drinker,no preference,family,public,single,independent,1989,retro,thrifty-protector,Catholic,student,purple,60,low,1.65,non-veg
+U1856,FALSE,abstemious,no preference,family,public,single,independent,1989,variety,hard-worker,Christian,student,blue,77,medium,1.63,veg
+U1857,TRUE,casual drinker,formal,family,public,single,independent,1990,variety,conformist,Catholic,student,white,58,low,1.6,non-veg
+U1858,FALSE,casual drinker,formal,family,on foot,single,independent,1991,eco-friendly,hard-worker,Catholic,student,black,64,medium,1.75,veg
+U1859,FALSE,abstemious,informal,solitary,public,married,kids,1992,none,hard-worker,Catholic,unemployed,white,40,medium,1.6,non-veg
+U1860,FALSE,abstemious,formal,family,public,single,independent,1989,variety,hard-worker,Catholic,student,blue,40,medium,1.75,veg
+U1861,FALSE,social drinker,no preference,family,on foot,single,independent,1991,none,hard-worker,none,student,yellow,54,low,1.6,non-veg
+U1862,FALSE,casual drinker,informal,family,public,single,independent,1990,technology,thrifty-protector,Catholic,student,yellow,50,medium,1.58,veg
+U1863,TRUE,casual drinker,no preference,friends,car owner,single,independent,1985,variety,hunter-ostentatious,none,student,red,69,medium,1.75,non-veg
+U1864,FALSE,social drinker,informal,family,public,single,independent,1991,none,hard-worker,Catholic,student,blue,76,medium,1.7,veg
+U1865,FALSE,social drinker,no preference,family,public,single,independent,1990,variety,thrifty-protector,Catholic,student,blue,52,low,1.5,non-veg
+U1866,TRUE,social drinker,no preference,family,public,single,independent,1930,variety,thrifty-protector,Catholic,student,blue,97,low,1.83,veg
+U1867,FALSE,social drinker,no preference,friends,public,single,independent,1989,none,hard-worker,none,student,yellow,83,medium,1.73,non-veg
+U1868,FALSE,abstemious,no preference,friends,public,single,independent,1994,none,thrifty-protector,Catholic,student,blue,73,medium,1.64,veg
+U1869,FALSE,abstemious,no preference,friends,on foot,single,independent,1985,eco-friendly,hunter-ostentatious,Catholic,professional,white,40,medium,1.62,non-veg
+U1870,FALSE,abstemious,no preference,family,car owner,single,independent,1943,technology,thrifty-protector,Christian,student,yellow,40,high,1.4,veg
+U1871,FALSE,abstemious,no preference,solitary,public,single,independent,1989,technology,hard-worker,none,student,white,60,medium,1.64,non-veg
+U1872,TRUE,social drinker,informal,family,car owner,married,kids,1969,variety,thrifty-protector,Catholic,professional,orange,85,medium,1.73,veg
+U1873,FALSE,casual drinker,elegant,friends,car owner,single,independent,1991,technology,thrifty-protector,Mormon,student,orange,68,high,1.6,non-veg
+U1874,FALSE,social drinker,no preference,friends,car owner,single,independent,1990,retro,hard-worker,Catholic,student,black,82,medium,1.84,veg
+U1875,FALSE,abstemious,no preference,family,public,single,independent,1992,retro,thrifty-protector,Catholic,student,purple,60,medium,1.63,non-veg
+U1876,TRUE,casual drinker,no preference,family,public,single,independent,1988,eco-friendly,thrifty-protector,none,student,green,65,medium,1.7,veg
+U1877,FALSE,casual drinker,informal,solitary,public,single,independent,1991,none,hard-worker,none,student,blue,55,medium,1.6,non-veg
+U1878,FALSE,social drinker,no preference,family,car owner,single,independent,1989,variety,hard-worker,none,student,green,73,medium,1.71,veg
+U1879,FALSE,casual drinker,no preference,family,public,single,independent,1979,variety,thrifty-protector,none,professional,blue,74,medium,1.76,non-veg
+U1880,TRUE,social drinker,no preference,family,on foot,single,independent,1990,none,conformist,Catholic,student,blue,85,low,1.8,veg
+U1881,FALSE,casual drinker,informal,family,public,single,independent,1990,variety,thrifty-protector,Catholic,student,red,66,low,1.72,non-veg
+U1882,FALSE,social drinker,formal,family,public,single,independent,1992,technology,thrifty-protector,Catholic,student,blue,59,medium,1.7,veg
+U1883,FALSE,abstemious,no preference,family,car owner,married,dependent,1952,none,hard-worker,Catholic,professional,blue,70,medium,1.66,non-veg
+U1884,FALSE,social drinker,informal,family,on foot,single,independent,1930,none,hard-worker,Catholic,student,yellow,61,medium,1.62,veg
+U1885,TRUE,casual drinker,formal,friends,public,single,independent,1989,technology,hunter-ostentatious,Catholic,student,yellow,69,medium,1.83,non-veg
+U1886,FALSE,abstemious,formal,family,public,single,independent,1991,variety,hard-worker,Catholic,student,red,74,low,1.78,veg
+U1887,FALSE,abstemious,formal,friends,on foot,single,independent,1987,technology,thrifty-protector,Catholic,student,blue,57,medium,1.69,non-veg
+U1888,FALSE,casual drinker,formal,family,public,single,independent,1991,technology,thrifty-protector,Catholic,student,blue,82,medium,1.84,veg
+U1889,FALSE,social drinker,no preference,friends,car owner,single,independent,1990,none,hard-worker,Catholic,professional,blue,40,medium,1.76,non-veg
+U1890,FALSE,casual drinker,informal,friends,car owner,single,independent,1985,variety,hard-worker,Catholic,student,yellow,88,medium,1.68,veg
+U1891,FALSE,casual drinker,formal,family,public,single,independent,1988,eco-friendly,conformist,Catholic,student,red,80,medium,1.78,non-veg
+U1892,FALSE,casual drinker,formal,solitary,public,single,independent,1991,variety,hunter-ostentatious,none,student,blue,94,medium,1.77,veg
+U1893,FALSE,abstemious,formal,friends,public,single,independent,1989,technology,conformist,Catholic,student,green,55,medium,1.72,non-veg
+U1894,FALSE,abstemious,informal,solitary,public,single,independent,1986,technology,thrifty-protector,Catholic,student,green,45,low,1.45,veg
+U1895,FALSE,abstemious,no preference,family,public,single,independent,1987,technology,thrifty-protector,Christian,student,green,92,medium,1.73,non-veg
+U1896,FALSE,casual drinker,informal,friends,public,single,independent,1988,technology,thrifty-protector,Catholic,student,blue,72,low,1.57,veg
+U1897,FALSE,social drinker,no preference,family,public,single,independent,1983,variety,thrifty-protector,Catholic,professional,black,60,medium,1.56,non-veg
+U1898,FALSE,casual drinker,informal,friends,public,single,independent,1991,variety,thrifty-protector,Catholic,student,green,47,low,1.6,veg
+U1899,FALSE,abstemious,formal,friends,car owner,single,independent,1930,none,hunter-ostentatious,none,student,blue,40,high,1.73,non-veg
+U1900,FALSE,casual drinker,no preference,family,public,single,independent,1984,eco-friendly,thrifty-protector,Christian,student,red,50,medium,1.54,veg
+U1901,FALSE,abstemious,informal,solitary,car owner,widow,kids,1989,none,hard-worker,none,unemployed,yellow,118,medium,1.79,non-veg
+U1902,TRUE,casual drinker,no preference,family,car owner,single,kids,1967,eco-friendly,hard-worker,Catholic,professional,black,68,medium,1.7,veg
+U1903,FALSE,casual drinker,informal,family,car owner,single,independent,1991,technology,thrifty-protector,Catholic,student,white,68,medium,1.6,non-veg
+U1904,FALSE,social drinker,elegant,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,65,medium,1.71,veg
+U1905,FALSE,social drinker,elegant,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,65,medium,1.71,non-veg
+U1906,TRUE,social drinker,informal,solitary,car owner,single,independent,1983,variety,hard-worker,Catholic,professional,blue,69,medium,1.69,veg
+U1907,FALSE,abstemious,formal,family,public,single,independent,1992,technology,thrifty-protector,Catholic,student,black,53,medium,1.55,non-veg
+U1908,TRUE,social drinker,formal,friends,car owner,single,independent,1987,variety,hard-worker,Catholic,student,white,80,low,1.82,veg
+U1909,FALSE,casual drinker,informal,family,public,single,independent,1991,variety,hard-worker,Catholic,student,green,52,low,1.54,non-veg
+U1910,TRUE,abstemious,informal,friends,public,single,independent,1989,variety,hard-worker,Catholic,student,black,63,medium,1.69,veg
+U1911,FALSE,abstemious,no preference,family,public,single,independent,1981,none,hard-worker,none,student,yellow,40,medium,1.6,veg
+U1912,TRUE,casual drinker,formal,family,public,single,independent,1991,variety,thrifty-protector,Catholic,student,red,65,medium,1.6,veg
+U1913,FALSE,abstemious,no preference,solitary,car owner,single,independent,1988,technology,thrifty-protector,Catholic,student,black,84,medium,1.7,non-veg
+U1914,FALSE,social drinker,no preference,family,car owner,single,independent,1991,variety,hunter-ostentatious,Catholic,student,red,49,medium,1.59,non-veg
+U1915,FALSE,abstemious,no preference,solitary,public,single,independent,1989,variety,thrifty-protector,Catholic,student,black,53,medium,1.55,non-veg
+U1916,FALSE,social drinker,informal,family,on foot,single,independent,1991,none,hard-worker,Catholic,student,blue,62,medium,1.6,non-veg
+U1917,TRUE,casual drinker,informal,family,public,single,independent,1990,variety,conformist,Catholic,student,white,54,low,1.6,non-veg
+U1918,FALSE,social drinker,no preference,friends,car owner,single,independent,1988,variety,thrifty-protector,Catholic,student,blue,50,medium,1.54,non-veg
+U1919,FALSE,casual drinker,no preference,family,car owner,single,independent,1989,eco-friendly,thrifty-protector,none,student,red,40,low,1.7,non-veg
+U1920,FALSE,abstemious,formal,solitary,public,single,dependent,1990,variety,thrifty-protector,Catholic,student,red,70,medium,1.69,non-veg
+U1921,TRUE,casual drinker,no preference,family,car owner,single,independent,1990,variety,thrifty-protector,Catholic,student,blue,80,medium,1.67,non-veg
+U1922,FALSE,abstemious,informal,friends,public,single,independent,1991,variety,thrifty-protector,Catholic,student,green,59,medium,1.71,non-veg
+U1923,FALSE,abstemious,formal,family,public,married,independent,1986,variety,thrifty-protector,Catholic,student,blue,65,medium,1.65,non-veg
+U1924,FALSE,abstemious,formal,family,public,single,independent,1990,eco-friendly,hard-worker,Catholic,student,black,40,medium,1.2,veg
+U1925,FALSE,abstemious,formal,family,public,single,independent,1990,variety,hard-worker,Catholic,student,black,58,medium,1.64,veg
+U1926,FALSE,social drinker,formal,family,public,single,independent,1991,none,thrifty-protector,Catholic,student,green,68,medium,1.76,veg
+U1927,TRUE,social drinker,informal,family,public,single,independent,1989,technology,conformist,Catholic,student,purple,70,high,2,veg
+U1928,FALSE,casual drinker,formal,friends,public,single,independent,1990,eco-friendly,hard-worker,Christian,student,black,40,medium,1.65,veg
+U1929,FALSE,casual drinker,no preference,friends,car owner,single,independent,1988,eco-friendly,hunter-ostentatious,Catholic,student,white,50,low,1.69,non-veg
+U1930,FALSE,social drinker,no preference,friends,on foot,single,independent,1989,eco-friendly,conformist,none,student,black,90,low,1.78,veg
+U1931,FALSE,abstemious,formal,friends,public,single,independent,1989,technology,hard-worker,Jewish,professional,green,120,medium,1.9,non-veg
+U1932,TRUE,social drinker,no preference,family,car owner,single,independent,1991,technology,hunter-ostentatious,Catholic,student,blue,75,medium,1.71,veg
+U1933,FALSE,social drinker,formal,family,public,single,independent,1991,variety,hard-worker,Christian,student,green,40,medium,1.74,non-veg
+U1934,FALSE,casual drinker,informal,friends,car owner,single,independent,1930,technology,hard-worker,Catholic,professional,blue,65,medium,1.71,veg
+U1935,FALSE,abstemious,no preference,friends,car owner,single,independent,1989,variety,hard-worker,Catholic,student,blue,87,high,1.79,veg
+U1936,FALSE,abstemious,informal,solitary,public,single,independent,1983,technology,thrifty-protector,Catholic,student,blue,76,medium,1.81,non-veg
+U1937,FALSE,abstemious,formal,solitary,public,single,independent,1989,eco-friendly,thrifty-protector,Catholic,student,blue,57,low,1.72,veg
+U1938,FALSE,abstemious,no preference,family,car owner,single,independent,1993,variety,thrifty-protector,Catholic,student,red,85,medium,1.75,non-veg
+U1939,TRUE,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69,veg
+U1940,TRUE,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69,non-veg
+U1941,FALSE,casual drinker,formal,family,public,single,independent,1990,none,thrifty-protector,Catholic,student,blue,75,medium,1.73,veg
+U1942,FALSE,abstemious,no preference,family,on foot,single,independent,1991,variety,hard-worker,Catholic,student,blue,58,medium,1.68,non-veg
+U1943,TRUE,social drinker,elegant,friends,public,single,independent,1990,variety,hard-worker,Catholic,student,green,76,low,1.76,veg
+U1944,FALSE,social drinker,formal,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,40,medium,1.71,non-veg
+U1945,FALSE,abstemious,no preference,friends,public,single,independent,1982,technology,thrifty-protector,Catholic,professional,blue,58,medium,1.6,veg
+U1946,TRUE,casual drinker,informal,friends,public,single,independent,1987,technology,thrifty-protector,none,student,black,60,medium,1.68,non-veg
+U1947,FALSE,abstemious,formal,family,public,single,independent,1992,eco-friendly,thrifty-protector,Catholic,student,blue,68,medium,1.68,veg
+U1948,FALSE,abstemious,informal,friends,public,single,independent,1930,variety,hard-worker,none,student,green,47,low,1.57,non-veg
+U1949,FALSE,social drinker,no preference,family,public,married,independent,1987,variety,thrifty-protector,Catholic,working-class,black,90,medium,1.6,veg
+U1950,FALSE,abstemious,no preference,family,public,single,independent,1930,none,hard-worker,none,student,yellow,40,medium,1.2,non-veg
+U1951,FALSE,abstemious,informal,family,public,single,independent,1987,technology,hard-worker,Catholic,student,green,110,medium,1.75,veg
+U1952,FALSE,casual drinker,informal,friends,public,single,independent,1991,none,hard-worker,Catholic,student,blue,51,low,1.2,non-veg
+U1953,FALSE,casual drinker,formal,friends,public,single,independent,1990,technology,hard-worker,Catholic,student,white,57,low,1.67,non-veg
+U1954,FALSE,casual drinker,formal,friends,on foot,single,independent,1990,technology,hard-worker,Catholic,student,purple,65,low,1.63,non-veg
+U1955,FALSE,abstemious,no preference,solitary,public,single,independent,1992,variety,hard-worker,Catholic,student,black,65,low,1.76,non-veg
+U1956,FALSE,casual drinker,no preference,friends,public,single,independent,1986,variety,thrifty-protector,Catholic,student,red,66,low,1.72,non-veg
+U1957,FALSE,casual drinker,no preference,friends,public,single,independent,1989,variety,thrifty-protector,none,student,purple,69,low,1.69,non-veg
+U1958,FALSE,abstemious,no preference,family,public,single,independent,1989,none,hard-worker,none,student,yellow,40,medium,1.2,non-veg
+U1959,TRUE,social drinker,no preference,friends,car owner,married,kids,1990,eco-friendly,hard-worker,none,student,black,90,medium,1.8,non-veg
+U1960,FALSE,casual drinker,informal,solitary,public,single,independent,1991,none,hard-worker,none,student,blue,55,medium,1.6,non-veg
+U1961,FALSE,abstemious,no preference,family,car owner,single,independent,1991,none,hard-worker,none,student,orange,60,medium,1.57,non-veg
+U1962,FALSE,casual drinker,no preference,family,public,single,independent,1991,variety,hard-worker,Catholic,student,black,52,medium,1.65,non-veg
+U1963,FALSE,casual drinker,informal,family,on foot,single,kids,1988,variety,hunter-ostentatious,Catholic,student,purple,66,low,1.54,non-veg
+U1964,TRUE,social drinker,no preference,friends,car owner,single,independent,1990,retro,thrifty-protector,Catholic,student,black,50,low,1.6,veg
+U1965,FALSE,social drinker,formal,family,public,single,independent,1989,eco-friendly,hard-worker,Catholic,student,blue,72,low,1.78,veg
+U1966,FALSE,social drinker,formal,friends,public,single,independent,1991,variety,thrifty-protector,none,student,blue,54,medium,1.55,veg
+U1967,FALSE,abstemious,informal,family,on foot,single,independent,1989,variety,thrifty-protector,none,student,black,69,medium,1.77,veg
+U1968,FALSE,abstemious,informal,family,public,single,independent,1990,technology,hunter-ostentatious,Catholic,student,red,40,low,1.87,veg
+U1969,FALSE,social drinker,formal,family,public,single,independent,1989,none,hard-worker,Catholic,student,blue,60,low,1.69,veg
+U1970,FALSE,abstemious,informal,family,public,single,independent,1940,variety,hard-worker,none,professional,green,44,medium,1.53,veg
+U1971,FALSE,abstemious,no preference,family,public,single,independent,1992,none,thrifty-protector,Catholic,student,black,65,medium,1.69,non-veg
+U1972,TRUE,social drinker,no preference,friends,car owner,single,independent,1989,variety,hard-worker,none,student,blue,75,medium,1.8,non-veg
+U1973,FALSE,casual drinker,informal,solitary,public,single,independent,1989,variety,thrifty-protector,Catholic,student,purple,60,low,1.59,non-veg
+U1974,FALSE,social drinker,formal,solitary,public,single,independent,1989,technology,hard-worker,Catholic,student,green,68,low,1.72,non-veg
+U1975,FALSE,abstemious,formal,family,on foot,single,kids,1991,variety,thrifty-protector,Catholic,student,green,75,medium,1.78,non-veg
+U1976,FALSE,social drinker,no preference,friends,car owner,married,kids,1987,technology,hard-worker,none,student,green,40,medium,1.67,non-veg
+U1977,FALSE,abstemious,no preference,family,public,single,independent,1989,variety,hard-worker,Catholic,student,purple,68,medium,1.78,non-veg
+U1978,FALSE,casual drinker,formal,family,public,single,independent,1988,technology,hard-worker,Catholic,student,red,98,medium,1.84,non-veg
+U1979,FALSE,abstemious,no preference,friends,public,widow,independent,1982,retro,thrifty-protector,none,professional,blue,80,medium,1.75,non-veg
+U1980,FALSE,abstemious,no preference,friends,public,single,independent,1990,none,hard-worker,Catholic,student,blue,53,medium,1.69,non-veg
+U1981,TRUE,social drinker,informal,family,public,single,independent,1989,technology,thrifty-protector,Catholic,student,black,87,medium,1.67,veg
+U1982,FALSE,casual drinker,informal,friends,on foot,single,independent,1991,eco-friendly,thrifty-protector,Catholic,student,green,70,medium,1.67,non-veg
+U1983,FALSE,casual drinker,formal,family,public,single,independent,1991,retro,hunter-ostentatious,none,professional,orange,79,medium,1.79,veg
+U1984,TRUE,casual drinker,formal,friends,public,single,independent,1989,technology,thrifty-protector,Christian,student,blue,65,low,1.83,veg
+U1985,FALSE,casual drinker,no preference,family,public,single,independent,1989,variety,thrifty-protector,Catholic,student,purple,59,medium,1.6,non-veg
+U1986,FALSE,abstemious,no preference,friends,public,single,independent,1982,technology,hard-worker,Catholic,professional,blue,40,medium,1.68,non-veg
+U1987,FALSE,social drinker,no preference,family,car owner,single,dependent,1984,none,hard-worker,Catholic,student,purple,108,medium,1.62,non-veg
+U1988,FALSE,casual drinker,formal,family,car owner,single,independent,1990,variety,hard-worker,Catholic,student,purple,46,medium,1.54,non-veg
+U1989,FALSE,casual drinker,informal,friends,car owner,single,independent,1988,none,hard-worker,Catholic,student,blue,103,low,1.79,non-veg
+U1990,FALSE,abstemious,no preference,family,public,single,independent,1930,none,hard-worker,none,student,yellow,40,medium,1.2,non-veg
+U1991,FALSE,social drinker,no preference,family,public,single,independent,1990,none,thrifty-protector,Catholic,student,red,65,medium,1.79,non-veg
+U1992,FALSE,abstemious,formal,family,public,single,independent,1989,technology,hunter-ostentatious,Catholic,student,red,49,medium,1.55,non-veg
+U1993,TRUE,social drinker,no preference,family,public,single,independent,1989,retro,thrifty-protector,Catholic,student,purple,60,low,1.65,non-veg
+U1994,FALSE,abstemious,no preference,family,public,single,independent,1989,variety,hard-worker,Christian,student,blue,77,medium,1.63,non-veg
+U1995,TRUE,casual drinker,formal,family,public,single,independent,1990,variety,conformist,Catholic,student,white,58,low,1.6,non-veg
+U1996,FALSE,casual drinker,formal,family,on foot,single,independent,1991,eco-friendly,hard-worker,Catholic,student,black,64,medium,1.75,non-veg
+U1997,FALSE,abstemious,informal,solitary,public,married,kids,1992,none,hard-worker,Catholic,unemployed,white,40,medium,1.6,non-veg
+U1998,FALSE,abstemious,formal,family,public,single,independent,1989,variety,hard-worker,Catholic,student,blue,40,medium,1.75,veg
+U1999,FALSE,social drinker,no preference,family,on foot,single,independent,1991,none,hard-worker,none,student,yellow,54,low,1.6,non-veg
+U2000,FALSE,casual drinker,informal,family,public,single,independent,1990,technology,thrifty-protector,Catholic,student,yellow,50,medium,1.58,veg
+U2001,TRUE,casual drinker,no preference,friends,car owner,single,independent,1985,variety,hunter-ostentatious,none,student,red,69,medium,1.75,non-veg
+U2002,FALSE,social drinker,informal,family,public,single,independent,1991,none,hard-worker,Catholic,student,blue,76,medium,1.7,veg
+U2003,FALSE,social drinker,no preference,family,public,single,independent,1990,variety,thrifty-protector,Catholic,student,blue,52,low,1.5,non-veg
+U2004,TRUE,social drinker,no preference,family,public,single,independent,1930,variety,thrifty-protector,Catholic,student,blue,97,low,1.83,veg
+U2005,FALSE,social drinker,no preference,friends,public,single,independent,1989,none,hard-worker,none,student,yellow,83,medium,1.73,non-veg
+U2006,FALSE,abstemious,no preference,friends,public,single,independent,1994,none,thrifty-protector,Catholic,student,blue,73,medium,1.64,veg
+U2007,FALSE,abstemious,no preference,friends,on foot,single,independent,1985,eco-friendly,hunter-ostentatious,Catholic,professional,white,40,medium,1.62,non-veg
+U2008,FALSE,abstemious,no preference,family,car owner,single,independent,1943,technology,thrifty-protector,Christian,student,yellow,40,high,1.4,veg
+U2009,FALSE,abstemious,no preference,solitary,public,single,independent,1989,technology,hard-worker,none,student,white,60,medium,1.64,non-veg
+U2010,TRUE,social drinker,informal,family,car owner,married,kids,1969,variety,thrifty-protector,Catholic,professional,orange,85,medium,1.73,non-veg
+U2011,FALSE,casual drinker,elegant,friends,car owner,single,independent,1991,technology,thrifty-protector,Mormon,student,orange,68,high,1.6,non-veg
+U2012,FALSE,social drinker,no preference,friends,car owner,single,independent,1990,retro,hard-worker,Catholic,student,black,82,medium,1.84,non-veg
+U2013,FALSE,abstemious,no preference,family,public,single,independent,1992,retro,thrifty-protector,Catholic,student,purple,60,medium,1.63,non-veg
+U2014,TRUE,casual drinker,no preference,family,public,single,independent,1988,eco-friendly,thrifty-protector,none,student,green,65,medium,1.7,non-veg
+U2015,FALSE,casual drinker,informal,solitary,public,single,independent,1991,none,hard-worker,none,student,blue,55,medium,1.6,non-veg
+U2016,FALSE,social drinker,no preference,family,car owner,single,independent,1989,variety,hard-worker,none,student,green,73,medium,1.71,non-veg
+U2017,FALSE,casual drinker,no preference,family,public,single,independent,1979,variety,thrifty-protector,none,professional,blue,74,medium,1.76,non-veg
+U2018,TRUE,social drinker,no preference,family,on foot,single,independent,1990,none,conformist,Catholic,student,blue,85,low,1.8,non-veg
+U2019,FALSE,casual drinker,informal,family,public,single,independent,1990,variety,thrifty-protector,Catholic,student,red,66,low,1.72,non-veg
+U2020,FALSE,social drinker,formal,family,public,single,independent,1992,technology,thrifty-protector,Catholic,student,blue,59,medium,1.7,non-veg
+U2021,FALSE,abstemious,no preference,family,car owner,married,dependent,1952,none,hard-worker,Catholic,professional,blue,70,medium,1.66,veg
+U2022,FALSE,social drinker,informal,family,on foot,single,independent,1930,none,hard-worker,Catholic,student,yellow,61,medium,1.62,veg
+U2023,TRUE,casual drinker,formal,friends,public,single,independent,1989,technology,hunter-ostentatious,Catholic,student,yellow,69,medium,1.83,veg
+U2024,FALSE,abstemious,formal,family,public,single,independent,1991,variety,hard-worker,Catholic,student,red,74,low,1.78,veg
+U2025,FALSE,abstemious,formal,friends,on foot,single,independent,1987,technology,thrifty-protector,Catholic,student,blue,57,medium,1.69,veg
+U2026,FALSE,casual drinker,formal,family,public,single,independent,1991,technology,thrifty-protector,Catholic,student,blue,82,medium,1.84,veg
+U2027,FALSE,social drinker,no preference,friends,car owner,single,independent,1990,none,hard-worker,Catholic,professional,blue,40,medium,1.76,veg
+U2028,FALSE,casual drinker,informal,friends,car owner,single,independent,1985,variety,hard-worker,Catholic,student,yellow,88,medium,1.68,non-veg
+U2029,FALSE,casual drinker,formal,family,public,single,independent,1988,eco-friendly,conformist,Catholic,student,red,80,medium,1.78,non-veg
+U2030,FALSE,casual drinker,formal,solitary,public,single,independent,1991,variety,hunter-ostentatious,none,student,blue,94,medium,1.77,non-veg
+U2031,FALSE,abstemious,formal,friends,public,single,independent,1989,technology,conformist,Catholic,student,green,55,medium,1.72,veg
+U2032,FALSE,abstemious,informal,solitary,public,single,independent,1986,technology,thrifty-protector,Catholic,student,green,45,low,1.45,non-veg
+U2033,FALSE,abstemious,no preference,family,public,single,independent,1987,technology,thrifty-protector,Christian,student,green,92,medium,1.73,veg
+U2034,FALSE,casual drinker,informal,friends,public,single,independent,1988,technology,thrifty-protector,Catholic,student,blue,72,low,1.57,non-veg
+U2035,FALSE,social drinker,no preference,family,public,single,independent,1983,variety,thrifty-protector,Catholic,professional,black,60,medium,1.56,non-veg
+U2036,FALSE,casual drinker,informal,friends,public,single,independent,1991,variety,thrifty-protector,Catholic,student,green,47,low,1.6,non-veg
+U2037,FALSE,abstemious,formal,friends,car owner,single,independent,1930,none,hunter-ostentatious,none,student,blue,40,high,1.73,non-veg
+U2038,FALSE,casual drinker,no preference,family,public,single,independent,1984,eco-friendly,thrifty-protector,Christian,student,red,50,medium,1.54,non-veg
+U2039,FALSE,abstemious,informal,solitary,car owner,widow,kids,1989,none,hard-worker,none,unemployed,yellow,118,medium,1.79,non-veg
+U2040,TRUE,casual drinker,no preference,family,car owner,single,kids,1967,eco-friendly,hard-worker,Catholic,professional,black,68,medium,1.7,non-veg
+U2041,FALSE,casual drinker,informal,family,car owner,single,independent,1991,technology,thrifty-protector,Catholic,student,white,68,medium,1.6,non-veg
+U2042,FALSE,social drinker,elegant,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,65,medium,1.71,non-veg
+U2043,FALSE,social drinker,elegant,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,65,medium,1.71,non-veg
+U2044,TRUE,social drinker,informal,solitary,car owner,single,independent,1983,variety,hard-worker,Catholic,professional,blue,69,medium,1.69,non-veg
+U2045,FALSE,abstemious,formal,family,public,single,independent,1992,technology,thrifty-protector,Catholic,student,black,53,medium,1.55,non-veg
+U2046,TRUE,social drinker,formal,friends,car owner,single,independent,1987,variety,hard-worker,Catholic,student,white,80,low,1.82,veg
+U2047,FALSE,casual drinker,informal,family,public,single,independent,1991,variety,hard-worker,Catholic,student,green,52,low,1.54,veg
+U2048,TRUE,abstemious,informal,friends,public,single,independent,1989,variety,hard-worker,Catholic,student,black,63,medium,1.69,veg
+U2049,FALSE,abstemious,no preference,family,public,single,independent,1981,none,hard-worker,none,student,yellow,40,medium,1.6,veg
+U2050,TRUE,casual drinker,formal,family,public,single,independent,1991,variety,thrifty-protector,Catholic,student,red,65,medium,1.6,veg
+U2051,FALSE,abstemious,no preference,solitary,car owner,single,independent,1988,technology,thrifty-protector,Catholic,student,black,84,medium,1.7,veg
+U2052,FALSE,social drinker,no preference,family,car owner,single,independent,1991,variety,hunter-ostentatious,Catholic,student,red,49,medium,1.59,veg
+U2053,FALSE,abstemious,no preference,solitary,public,single,independent,1989,variety,thrifty-protector,Catholic,student,black,53,medium,1.55,non-veg
+U2054,FALSE,social drinker,informal,family,on foot,single,independent,1991,none,hard-worker,Catholic,student,blue,62,medium,1.6,non-veg
+U2055,TRUE,casual drinker,informal,family,public,single,independent,1990,variety,conformist,Catholic,student,white,54,low,1.6,non-veg
+U2056,FALSE,social drinker,no preference,friends,car owner,single,independent,1988,variety,thrifty-protector,Catholic,student,blue,50,medium,1.54,veg
+U2057,FALSE,casual drinker,no preference,family,car owner,single,independent,1989,eco-friendly,thrifty-protector,none,student,red,40,low,1.7,non-veg
+U2058,FALSE,abstemious,formal,solitary,public,single,dependent,1990,variety,thrifty-protector,Catholic,student,red,70,medium,1.69,veg
+U2059,TRUE,casual drinker,no preference,family,car owner,single,independent,1990,variety,thrifty-protector,Catholic,student,blue,80,medium,1.67,non-veg
+U2060,FALSE,abstemious,informal,friends,public,single,independent,1991,variety,thrifty-protector,Catholic,student,green,59,medium,1.71,non-veg
+U2061,FALSE,abstemious,formal,family,public,married,independent,1986,variety,thrifty-protector,Catholic,student,blue,65,medium,1.65,non-veg
+U2062,FALSE,abstemious,formal,family,public,single,independent,1990,eco-friendly,hard-worker,Catholic,student,black,40,medium,1.2,non-veg
+U2063,FALSE,abstemious,formal,family,public,single,independent,1990,variety,hard-worker,Catholic,student,black,58,medium,1.64,non-veg
+U2064,FALSE,social drinker,formal,family,public,single,independent,1991,none,thrifty-protector,Catholic,student,green,68,medium,1.76,non-veg
+U2065,TRUE,social drinker,informal,family,public,single,independent,1989,technology,conformist,Catholic,student,purple,70,high,2,non-veg
+U2066,FALSE,casual drinker,formal,friends,public,single,independent,1990,eco-friendly,hard-worker,Christian,student,black,40,medium,1.65,non-veg
+U2067,FALSE,casual drinker,no preference,friends,car owner,single,independent,1988,eco-friendly,hunter-ostentatious,Catholic,student,white,50,low,1.69,non-veg
+U2068,FALSE,social drinker,no preference,friends,on foot,single,independent,1989,eco-friendly,conformist,none,student,black,90,low,1.78,non-veg
+U2069,FALSE,abstemious,formal,friends,public,single,independent,1989,technology,hard-worker,Jewish,professional,green,120,medium,1.9,non-veg
+U2070,TRUE,social drinker,no preference,family,car owner,single,independent,1991,technology,hunter-ostentatious,Catholic,student,blue,75,medium,1.71,non-veg
+U2071,FALSE,social drinker,formal,family,public,single,independent,1991,variety,hard-worker,Christian,student,green,40,medium,1.74,veg
+U2072,FALSE,casual drinker,informal,friends,car owner,single,independent,1930,technology,hard-worker,Catholic,professional,blue,65,medium,1.71,veg
+U2073,FALSE,abstemious,no preference,friends,car owner,single,independent,1989,variety,hard-worker,Catholic,student,blue,87,high,1.79,veg
+U2074,FALSE,abstemious,informal,solitary,public,single,independent,1983,technology,thrifty-protector,Catholic,student,blue,76,medium,1.81,veg
+U2075,FALSE,abstemious,formal,solitary,public,single,independent,1989,eco-friendly,thrifty-protector,Catholic,student,blue,57,low,1.72,veg
+U2076,FALSE,abstemious,no preference,family,car owner,single,independent,1993,variety,thrifty-protector,Catholic,student,red,85,medium,1.75,veg
+U2077,TRUE,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69,veg
+U2078,TRUE,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69,non-veg
+U2079,FALSE,casual drinker,formal,family,public,single,independent,1990,none,thrifty-protector,Catholic,student,blue,75,medium,1.73,non-veg
+U2080,FALSE,abstemious,no preference,family,on foot,single,independent,1991,variety,hard-worker,Catholic,student,blue,58,medium,1.68,non-veg
+U2081,TRUE,social drinker,elegant,friends,public,single,independent,1990,variety,hard-worker,Catholic,student,green,76,low,1.76,veg
+U2082,FALSE,social drinker,formal,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,40,medium,1.71,non-veg
+U2083,FALSE,abstemious,no preference,friends,public,single,independent,1982,technology,thrifty-protector,Catholic,professional,blue,58,medium,1.6,veg
+U2084,TRUE,casual drinker,informal,friends,public,single,independent,1987,technology,thrifty-protector,none,student,black,60,medium,1.68,non-veg
+U2085,FALSE,abstemious,formal,family,public,single,independent,1992,eco-friendly,thrifty-protector,Catholic,student,blue,68,medium,1.68,non-veg
+U2086,FALSE,abstemious,informal,friends,public,single,independent,1930,variety,hard-worker,none,student,green,47,low,1.57,non-veg
+U2087,FALSE,social drinker,no preference,family,public,married,independent,1987,variety,thrifty-protector,Catholic,working-class,black,90,medium,1.6,non-veg
+U2088,FALSE,abstemious,no preference,family,public,single,independent,1930,none,hard-worker,none,student,yellow,40,medium,1.2,non-veg
+U2089,FALSE,abstemious,informal,family,public,single,independent,1987,technology,hard-worker,Catholic,student,green,110,medium,1.75,non-veg
+U2090,FALSE,casual drinker,informal,friends,public,single,independent,1991,none,hard-worker,Catholic,student,blue,51,low,1.2,non-veg
+U2091,FALSE,casual drinker,formal,friends,public,single,independent,1990,technology,hard-worker,Catholic,student,white,57,low,1.67,non-veg
+U2092,FALSE,casual drinker,formal,friends,on foot,single,independent,1990,technology,hard-worker,Catholic,student,purple,65,low,1.63,non-veg
+U2093,FALSE,abstemious,no preference,solitary,public,single,independent,1992,variety,hard-worker,Catholic,student,black,65,low,1.76,non-veg
+U2094,FALSE,casual drinker,no preference,friends,public,single,independent,1986,variety,thrifty-protector,Catholic,student,red,66,low,1.72,non-veg
+U2095,FALSE,casual drinker,no preference,friends,public,single,independent,1989,variety,thrifty-protector,none,student,purple,69,low,1.69,non-veg
+U2096,FALSE,abstemious,no preference,family,public,single,independent,1989,none,hard-worker,none,student,yellow,40,medium,1.2,veg
+U2097,TRUE,social drinker,no preference,friends,car owner,married,kids,1990,eco-friendly,hard-worker,none,student,black,90,medium,1.8,veg
+U2098,FALSE,casual drinker,informal,solitary,public,single,independent,1991,none,hard-worker,none,student,blue,55,medium,1.6,non-veg
+U2099,FALSE,abstemious,no preference,family,car owner,single,independent,1991,none,hard-worker,none,student,orange,60,medium,1.57,veg
+U2100,FALSE,casual drinker,no preference,family,public,single,independent,1991,variety,hard-worker,Catholic,student,black,52,medium,1.65,non-veg
+U2101,FALSE,casual drinker,informal,family,on foot,single,kids,1988,variety,hunter-ostentatious,Catholic,student,purple,66,low,1.54,veg
+U2102,TRUE,social drinker,no preference,friends,car owner,single,independent,1990,retro,thrifty-protector,Catholic,student,black,50,low,1.6,non-veg
+U2103,FALSE,social drinker,formal,family,public,single,independent,1989,eco-friendly,hard-worker,Catholic,student,blue,72,low,1.78,non-veg
+U2104,FALSE,social drinker,formal,friends,public,single,independent,1991,variety,thrifty-protector,none,student,blue,54,medium,1.55,non-veg
+U2045,FALSE,abstemious,formal,family,public,single,independent,1992,technology,thrifty-protector,Catholic,student,black,53,medium,1.55,non-veg
+U2046,TRUE,social drinker,formal,friends,car owner,single,independent,1987,variety,hard-worker,Catholic,student,white,80,low,1.82,veg
+U2047,FALSE,casual drinker,informal,family,public,single,independent,1991,variety,hard-worker,Catholic,student,green,52,low,1.54,veg
+U2048,TRUE,abstemious,informal,friends,public,single,independent,1989,variety,hard-worker,Catholic,student,black,63,medium,1.69,veg
+U2049,FALSE,abstemious,no preference,family,public,single,independent,1981,none,hard-worker,none,student,yellow,40,medium,1.6,veg
+U2050,TRUE,casual drinker,formal,family,public,single,independent,1991,variety,thrifty-protector,Catholic,student,red,65,medium,1.6,veg
+U2051,FALSE,abstemious,no preference,solitary,car owner,single,independent,1988,technology,thrifty-protector,Catholic,student,black,84,medium,1.7,veg
+U2052,FALSE,social drinker,no preference,family,car owner,single,independent,1991,variety,hunter-ostentatious,Catholic,student,red,49,medium,1.59,veg
+U2053,FALSE,abstemious,no preference,solitary,public,single,independent,1989,variety,thrifty-protector,Catholic,student,black,53,medium,1.55,non-veg
+U2054,FALSE,social drinker,informal,family,on foot,single,independent,1991,none,hard-worker,Catholic,student,blue,62,medium,1.6,non-veg
+U2055,TRUE,casual drinker,informal,family,public,single,independent,1990,variety,conformist,Catholic,student,white,54,low,1.6,non-veg
+U2056,FALSE,social drinker,no preference,friends,car owner,single,independent,1988,variety,thrifty-protector,Catholic,student,blue,50,medium,1.54,veg
+U2057,FALSE,casual drinker,no preference,family,car owner,single,independent,1989,eco-friendly,thrifty-protector,none,student,red,40,low,1.7,non-veg
+U2058,FALSE,abstemious,formal,solitary,public,single,dependent,1990,variety,thrifty-protector,Catholic,student,red,70,medium,1.69,veg
+U2059,TRUE,casual drinker,no preference,family,car owner,single,independent,1990,variety,thrifty-protector,Catholic,student,blue,80,medium,1.67,non-veg
+U2060,FALSE,abstemious,informal,friends,public,single,independent,1991,variety,thrifty-protector,Catholic,student,green,59,medium,1.71,non-veg
+U2061,FALSE,abstemious,formal,family,public,married,independent,1986,variety,thrifty-protector,Catholic,student,blue,65,medium,1.65,non-veg
+U2062,FALSE,abstemious,formal,family,public,single,independent,1990,eco-friendly,hard-worker,Catholic,student,black,40,medium,1.2,non-veg
+U2063,FALSE,abstemious,formal,family,public,single,independent,1990,variety,hard-worker,Catholic,student,black,58,medium,1.64,non-veg
+U2064,FALSE,social drinker,formal,family,public,single,independent,1991,none,thrifty-protector,Catholic,student,green,68,medium,1.76,non-veg
+U2065,TRUE,social drinker,informal,family,public,single,independent,1989,technology,conformist,Catholic,student,purple,70,high,2,non-veg
+U2066,FALSE,casual drinker,formal,friends,public,single,independent,1990,eco-friendly,hard-worker,Christian,student,black,40,medium,1.65,non-veg
+U2067,FALSE,casual drinker,no preference,friends,car owner,single,independent,1988,eco-friendly,hunter-ostentatious,Catholic,student,white,50,low,1.69,non-veg
+U2068,FALSE,social drinker,no preference,friends,on foot,single,independent,1989,eco-friendly,conformist,none,student,black,90,low,1.78,non-veg
+U2069,FALSE,abstemious,formal,friends,public,single,independent,1989,technology,hard-worker,Jewish,professional,green,120,medium,1.9,non-veg
+U2070,TRUE,social drinker,no preference,family,car owner,single,independent,1991,technology,hunter-ostentatious,Catholic,student,blue,75,medium,1.71,non-veg
+U2071,FALSE,social drinker,formal,family,public,single,independent,1991,variety,hard-worker,Christian,student,green,40,medium,1.74,veg
+U2072,FALSE,casual drinker,informal,friends,car owner,single,independent,1930,technology,hard-worker,Catholic,professional,blue,65,medium,1.71,veg
+U2073,FALSE,abstemious,no preference,friends,car owner,single,independent,1989,variety,hard-worker,Catholic,student,blue,87,high,1.79,veg
+U2074,FALSE,abstemious,informal,solitary,public,single,independent,1983,technology,thrifty-protector,Catholic,student,blue,76,medium,1.81,veg
+U2075,FALSE,abstemious,formal,solitary,public,single,independent,1989,eco-friendly,thrifty-protector,Catholic,student,blue,57,low,1.72,veg
+U2076,FALSE,abstemious,no preference,family,car owner,single,independent,1993,variety,thrifty-protector,Catholic,student,red,85,medium,1.75,veg
+U2077,TRUE,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69,veg
