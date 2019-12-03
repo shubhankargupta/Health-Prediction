@@ -36,3 +36,10 @@ Following are the libraries used for this project:-
 • pygal
 
 • thrift
+
+# Running the project
+
+Clone the repository to create a local copy on your computer.
+
+Run the python file in the terminal using the following command:
+                python health.py
