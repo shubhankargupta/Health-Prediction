@@ -41,5 +41,5 @@ Following are the libraries used for this project:-
 
 Clone the repository to create a local copy on your computer.
 
-Run the python file in the terminal using the following command:
+Run the python file (health.py) in the terminal using the following command:
                 python health.py
